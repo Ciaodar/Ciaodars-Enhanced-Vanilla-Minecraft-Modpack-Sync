@@ -1,9 +1,0 @@
-{
-  "id" : "55d8ac3d94494e18b5e38772a5c742a8",
-  "name" : "hotjalapeno",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1OTE2NDYzNjUwMCwKICAicHJvZmlsZUlkIiA6ICI1NWQ4YWMzZDk0NDk0ZTE4YjVlMzg3NzJhNWM3NDJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJob3RqYWxhcGVubyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2Q4YzMwNjdiYjlmYWY0MWM0NjE0ZjMyNWE3YmIyYmE3ZGRmZTFiYjA5OGU5YzVjMzYxN2ExM2NiYmQ0MmFkIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
