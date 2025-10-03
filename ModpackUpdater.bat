@@ -6,8 +6,8 @@ git commit -m "Regular-Auto-Sync"
 
 
 REM === Uzak repo ile senkronize ol ===
-call git pull origin main
-call git push origin main
+call git pull origin master
+call git push origin master
 
 pause 
 
