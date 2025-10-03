@@ -5,3 +5,12 @@ natives/
 saves/
 CustomSkinLoader/caches/
 .idea/
+data/
+defaultconfigs/
+downloads/
+screenshots/
+server-resource-packs/
+ModpackUpdater.bat
+TLauncherAdditional.json
+usercache.json
+config/sodium-fingerprint.json
