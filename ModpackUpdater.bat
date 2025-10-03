@@ -6,10 +6,8 @@ git commit -m "Regular-Auto-Sync"
 
 
 REM === Uzak repo ile senkronize ol ===
-call git pull origin master
-call git push origin master
-
-pause 
+git pull origin master
+git push origin master
 
 REM === TLauncher’ı çalıştır ===
 start "" "C:\Users\Ciaodar\AppData\Roaming\.minecraft\TLauncher.exe"
