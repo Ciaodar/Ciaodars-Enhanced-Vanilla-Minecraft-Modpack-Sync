@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:0.66
+gamma:0.85
 graphicsMode:1
 guiScale:0
 maxFps:70
@@ -131,8 +131,9 @@ key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
+key_inventorymanagement.keybind.position_edit.player:key.keyboard.k
+key_inventorymanagement.keybind.position_edit.container:key.keyboard.l
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.sort_it_out.sort:key.keyboard.i
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

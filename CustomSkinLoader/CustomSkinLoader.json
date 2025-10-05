@@ -51,7 +51,6 @@
       "type": "GlitchlessAPI",
       "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname\u003d"
     },
-
     {
       "name": "MinecraftCapes",
       "type": "MinecraftCapesAPI",
