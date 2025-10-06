@@ -1,360 +1,121 @@
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.25
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.8
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\CustomSkinLoader.json
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.25
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 34
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2025-10-04 15:20:49] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2025-10-04 15:20:49] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
-[2025-10-04 15:20:49] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 15:20:49] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Ciaodar'.
-[2025-10-04 15:20:49] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 15:20:49] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 84 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\7454413aac1b472fde6f3dc4361aacbfaa7cf9b3' , Expire: 1759580541)
-[2025-10-04 15:20:49] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png"}}
-[2025-10-04 15:20:49] [Ciaodar/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 15:20:49] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
-[2025-10-04 15:20:49] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png , Model: default , CapeUrl: (LOCAL_LEGACY)4edf8a919dedf828fd458ccff0bdb8a0b1807675,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1759580479)
-[2025-10-04 15:21:06] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-04 15:21:06] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 15:21:06] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/hotjalapeno'.
-[2025-10-04 15:21:06] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 15:21:06] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\cc274e2c181bd2ab8a4edef5fda7f7cae064d873' , Expire: 1759580558)
-[2025-10-04 15:21:06] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png"}}
-[2025-10-04 15:21:06] [hotjalapeno/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 15:21:06] [hotjalapeno/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-04 15:21:06] [hotjalapeno/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-04 15:21:06] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-04 15:21:06] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: ["hotjalapeno"]
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 77)
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: [ {
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.25
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.8
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\CustomSkinLoader.json
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.25
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 34
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2025-10-05 21:48:01] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2025-10-05 21:48:01] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
+[2025-10-05 21:48:01] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
+[2025-10-05 21:48:01] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Ciaodar'.
+[2025-10-05 21:48:02] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-05 21:48:02] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 84 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\7454413aac1b472fde6f3dc4361aacbfaa7cf9b3' , Expire: 1759690177)
+[2025-10-05 21:48:02] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png"}}
+[2025-10-05 21:48:02] [Ciaodar/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
+[2025-10-05 21:48:02] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
+[2025-10-05 21:48:02] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png , Model: default , CapeUrl: (LOCAL_LEGACY)4edf8a919dedf828fd458ccff0bdb8a0b1807675,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1759690112)
+[2025-10-05 21:48:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
+[2025-10-05 21:48:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/hotjalapeno'.
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\cc274e2c181bd2ab8a4edef5fda7f7cae064d873' , Expire: 1759690200)
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png"}}
+[2025-10-05 21:48:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
+[2025-10-05 21:48:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
+[2025-10-05 21:48:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-05 21:48:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: ["hotjalapeno"]
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 77)
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: [ {
   "id" : "55d8ac3d94494e18b5e38772a5c742a8",
   "name" : "hotjalapeno"
 } ]
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 545)
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 545 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\1d3d41dd2f1a929ab1b0cd8c87263c52c0afa57f' , Expire: 1759580497)
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {
+[2025-10-05 21:48:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/55d8ac3d94494e18b5e38772a5c742a8'.
+[2025-10-05 21:48:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 545)
+[2025-10-05 21:48:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 545 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\1d3d41dd2f1a929ab1b0cd8c87263c52c0afa57f' , Expire: 1759690138)
+[2025-10-05 21:48:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {
   "id" : "55d8ac3d94494e18b5e38772a5c742a8",
   "name" : "hotjalapeno",
   "properties" : [ {
     "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1OTU4MDQ2NTYwMiwKICAicHJvZmlsZUlkIiA6ICI1NWQ4YWMzZDk0NDk0ZTE4YjVlMzg3NzJhNWM3NDJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJob3RqYWxhcGVubyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2Q4YzMwNjdiYjlmYWY0MWM0NjE0ZjMyNWE3YmIyYmE3ZGRmZTFiYjA5OGU5YzVjMzYxN2ExM2NiYmQ0MmFkIgogICAgfQogIH0KfQ=="
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1OTY5MDEwNzM2MSwKICAicHJvZmlsZUlkIiA6ICI1NWQ4YWMzZDk0NDk0ZTE4YjVlMzg3NzJhNWM3NDJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJob3RqYWxhcGVubyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2Q4YzMwNjdiYjlmYWY0MWM0NjE0ZjMyNWE3YmIyYmE3ZGRmZTFiYjA5OGU5YzVjMzYxN2ExM2NiYmQ0MmFkIgogICAgfQogIH0KfQ=="
   } ],
   "profileActions" : [ ]
 }
-[2025-10-04 15:21:07] [hotjalapeno/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-04 15:21:07] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/hotjalapeno.json'.
-[2025-10-04 15:21:08] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 15:21:08] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\78279a665845905c6b9e04810645ffd8128da3fe' , Expire: 1759580559)
-[2025-10-04 15:21:08] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-04 15:21:08] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 15:21:08] [hotjalapeno/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-04 15:21:08] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/hotjalapeno.json'.
-[2025-10-04 15:21:08] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 15:21:08] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 15:21:08] [hotjalapeno/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-04 15:21:08] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/hotjalapeno'.
-[2025-10-04 15:21:09] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
-[2025-10-04 15:21:09] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\825b691b46d1bc6c3ac6cdf7d9fcd5f7aed06e20' , Expire: 1759580559)
-[2025-10-04 15:21:09] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/b7d8c3067bb9faf41c4614f325a7bb2ba7ddfe1bb098e9c5c3617a13cbbd42ad"}}
-[2025-10-04 15:21:09] [hotjalapeno/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-04 15:21:09] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/hotjalapeno.json'.
-[2025-10-04 15:21:09] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/hotjalapeno.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-04 15:21:09] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 15:21:09] [hotjalapeno/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-04 15:21:09] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=hotjalapeno'.
-[2025-10-04 15:21:10] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 15:21:10] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 15:21:10] [hotjalapeno/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-04 15:21:10] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 15:21:10] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 15:21:10] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 152 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136' , Expire: 1759584070)
-[2025-10-04 15:21:10] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"cape":null,"ears":null}}
-[2025-10-04 15:21:10] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 15:21:10] [hotjalapeno/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-04 15:21:10] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/hotjalapeno.png'.
-[2025-10-04 15:21:11] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 15:21:11] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 15:21:11] [hotjalapeno/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-04 15:21:11] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2025-10-04 15:21:11] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"55d8ac3d-9449-4e18-b5e3-8772a5c742a8"}
-[2025-10-04 15:21:12] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2025-10-04 15:21:12] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 15:21:12] [hotjalapeno/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-04 15:21:12] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/hotjalapeno.png'.
-[2025-10-04 15:21:12] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 15:21:12] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 15:21:12] [hotjalapeno/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-04 15:21:12] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=hotjalapeno&uuid=55d8ac3d-9449-4e18-b5e3-8772a5c742a8&nothirdparty'.
-[2025-10-04 15:21:13] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 15:21:13] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 15:21:13] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-04 15:21:13] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png , Model: default , CapeUrl: null  , Expiry: 1759580503)
-[2025-10-04 17:04:47] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
-[2025-10-04 17:04:47] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 17:04:47] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Ciaodar'.
-[2025-10-04 17:04:48] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:04:48] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 84 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\7454413aac1b472fde6f3dc4361aacbfaa7cf9b3' , Expire: 1759586778)
-[2025-10-04 17:04:48] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png"}}
-[2025-10-04 17:04:48] [Ciaodar/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 17:04:48] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
-[2025-10-04 17:04:48] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png , Model: default , CapeUrl: (LOCAL_LEGACY)4edf8a919dedf828fd458ccff0bdb8a0b1807675,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1759586718)
-[2025-10-04 17:14:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-04 17:14:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/hotjalapeno'.
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\cc274e2c181bd2ab8a4edef5fda7f7cae064d873' , Expire: 1759587365)
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png"}}
-[2025-10-04 17:14:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 17:14:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-04 17:14:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 545)
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 545 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\1d3d41dd2f1a929ab1b0cd8c87263c52c0afa57f' , Expire: 1759587300)
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "55d8ac3d94494e18b5e38772a5c742a8",
-  "name" : "hotjalapeno",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1OTU4MDQ2Njc3NiwKICAicHJvZmlsZUlkIiA6ICI1NWQ4YWMzZDk0NDk0ZTE4YjVlMzg3NzJhNWM3NDJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJob3RqYWxhcGVubyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2Q4YzMwNjdiYjlmYWY0MWM0NjE0ZjMyNWE3YmIyYmE3ZGRmZTFiYjA5OGU5YzVjMzYxN2ExM2NiYmQ0MmFkIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
-[2025-10-04 17:14:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-04 17:14:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/hotjalapeno.json'.
-[2025-10-04 17:14:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:14:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\78279a665845905c6b9e04810645ffd8128da3fe' , Expire: 1759587366)
-[2025-10-04 17:14:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-04 17:14:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 17:14:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-04 17:14:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/hotjalapeno.json'.
-[2025-10-04 17:14:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:14:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:14:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-04 17:14:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/hotjalapeno'.
-[2025-10-04 17:14:41] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 502)
-[2025-10-04 17:14:41] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:14:41] [hotjalapeno/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-04 17:14:41] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/hotjalapeno.json'.
-[2025-10-04 17:14:41] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/hotjalapeno.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-04 17:14:41] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:14:41] [hotjalapeno/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-04 17:14:41] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=hotjalapeno'.
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:14:42] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:14:42] [hotjalapeno/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 152 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136' , Expire: 0)
-[2025-10-04 17:14:42] [hotjalapeno/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136'.
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"cape":null,"ears":null}}
-[2025-10-04 17:14:42] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 17:14:42] [hotjalapeno/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-04 17:14:42] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/hotjalapeno.png'.
-[2025-10-04 17:14:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:14:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:14:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-04 17:14:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2025-10-04 17:14:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"55d8ac3d-9449-4e18-b5e3-8772a5c742a8"}
-[2025-10-04 17:14:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2025-10-04 17:14:44] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:14:44] [hotjalapeno/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-04 17:14:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/hotjalapeno.png'.
-[2025-10-04 17:14:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:14:44] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:14:44] [hotjalapeno/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-04 17:14:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=hotjalapeno&uuid=55d8ac3d-9449-4e18-b5e3-8772a5c742a8&nothirdparty'.
-[2025-10-04 17:14:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:14:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:14:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-04 17:14:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png , Model: default , CapeUrl: null  , Expiry: 1759587315)
-[2025-10-04 17:26:25] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
-[2025-10-04 17:26:25] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 17:26:25] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Ciaodar'.
-[2025-10-04 17:26:25] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:26:25] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 84 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\7454413aac1b472fde6f3dc4361aacbfaa7cf9b3' , Expire: 1759588077)
-[2025-10-04 17:26:25] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png"}}
-[2025-10-04 17:26:25] [Ciaodar/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 17:26:25] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
-[2025-10-04 17:26:25] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png , Model: default , CapeUrl: (LOCAL_LEGACY)4edf8a919dedf828fd458ccff0bdb8a0b1807675,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1759588015)
-[2025-10-04 17:26:30] [Ciaodar/INFO] [CustomSkinLoader Core]: Cached profile will be used.
-[2025-10-04 17:26:30] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png , Model: default , CapeUrl: (LOCAL_LEGACY)4edf8a919dedf828fd458ccff0bdb8a0b1807675,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1759588015)
-[2025-10-04 17:26:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-04 17:26:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/hotjalapeno'.
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\cc274e2c181bd2ab8a4edef5fda7f7cae064d873' , Expire: 1759588095)
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png"}}
-[2025-10-04 17:26:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 17:26:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-04 17:26:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 545)
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 545 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\1d3d41dd2f1a929ab1b0cd8c87263c52c0afa57f' , Expire: 1759588033)
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "55d8ac3d94494e18b5e38772a5c742a8",
-  "name" : "hotjalapeno",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1OTU4ODAwMzQxNSwKICAicHJvZmlsZUlkIiA6ICI1NWQ4YWMzZDk0NDk0ZTE4YjVlMzg3NzJhNWM3NDJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJob3RqYWxhcGVubyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2Q4YzMwNjdiYjlmYWY0MWM0NjE0ZjMyNWE3YmIyYmE3ZGRmZTFiYjA5OGU5YzVjMzYxN2ExM2NiYmQ0MmFkIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
-[2025-10-04 17:26:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-04 17:26:43] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/hotjalapeno.json'.
-[2025-10-04 17:26:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:26:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\78279a665845905c6b9e04810645ffd8128da3fe' , Expire: 1759588096)
-[2025-10-04 17:26:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-04 17:26:44] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 17:26:44] [hotjalapeno/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-04 17:26:44] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/hotjalapeno.json'.
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:26:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:26:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/hotjalapeno'.
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\825b691b46d1bc6c3ac6cdf7d9fcd5f7aed06e20' , Expire: 1759588096)
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/b7d8c3067bb9faf41c4614f325a7bb2ba7ddfe1bb098e9c5c3617a13cbbd42ad"}}
-[2025-10-04 17:26:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/hotjalapeno.json'.
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/hotjalapeno.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-04 17:26:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:26:45] [hotjalapeno/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-04 17:26:45] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=hotjalapeno'.
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:26:46] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:26:46] [hotjalapeno/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 152 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136' , Expire: 0)
-[2025-10-04 17:26:46] [hotjalapeno/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136'.
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"cape":null,"ears":null}}
-[2025-10-04 17:26:46] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 17:26:46] [hotjalapeno/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-04 17:26:46] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/hotjalapeno.png'.
-[2025-10-04 17:26:47] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:26:47] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:26:47] [hotjalapeno/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-04 17:26:47] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2025-10-04 17:26:47] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"55d8ac3d-9449-4e18-b5e3-8772a5c742a8"}
-[2025-10-04 17:26:47] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2025-10-04 17:26:47] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:26:47] [hotjalapeno/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-04 17:26:47] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/hotjalapeno.png'.
-[2025-10-04 17:26:48] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:26:48] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:26:48] [hotjalapeno/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-04 17:26:48] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=hotjalapeno&uuid=55d8ac3d-9449-4e18-b5e3-8772a5c742a8&nothirdparty'.
-[2025-10-04 17:26:49] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:26:49] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:26:49] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-04 17:26:49] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png , Model: default , CapeUrl: null  , Expiry: 1759588039)
-[2025-10-04 17:39:02] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
-[2025-10-04 17:39:02] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 17:39:02] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Ciaodar'.
-[2025-10-04 17:39:03] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:39:03] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 84 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\7454413aac1b472fde6f3dc4361aacbfaa7cf9b3' , Expire: 1759588835)
-[2025-10-04 17:39:03] [Ciaodar/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png"}}
-[2025-10-04 17:39:03] [Ciaodar/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 17:39:03] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
-[2025-10-04 17:39:03] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_ciaodar.png , Model: default , CapeUrl: (LOCAL_LEGACY)4edf8a919dedf828fd458ccff0bdb8a0b1807675,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1759588773)
-[2025-10-04 17:39:22] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-04 17:39:22] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'TLauncher'.
-[2025-10-04 17:39:22] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/hotjalapeno'.
-[2025-10-04 17:39:22] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:39:22] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\cc274e2c181bd2ab8a4edef5fda7f7cae064d873' , Expire: 1759588857)
-[2025-10-04 17:39:22] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png"}}
-[2025-10-04 17:39:22] [hotjalapeno/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LocalSkin'.
-[2025-10-04 17:39:22] [hotjalapeno/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-04 17:39:22] [hotjalapeno/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-04 17:39:22] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 17:39:23] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 545)
-[2025-10-04 17:39:23] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 545 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\1d3d41dd2f1a929ab1b0cd8c87263c52c0afa57f' , Expire: 1759588793)
-[2025-10-04 17:39:23] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "55d8ac3d94494e18b5e38772a5c742a8",
-  "name" : "hotjalapeno",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1OTU4ODc2MjcwMSwKICAicHJvZmlsZUlkIiA6ICI1NWQ4YWMzZDk0NDk0ZTE4YjVlMzg3NzJhNWM3NDJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJob3RqYWxhcGVubyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2Q4YzMwNjdiYjlmYWY0MWM0NjE0ZjMyNWE3YmIyYmE3ZGRmZTFiYjA5OGU5YzVjMzYxN2ExM2NiYmQ0MmFkIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
-[2025-10-04 17:39:23] [hotjalapeno/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-04 17:39:23] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/hotjalapeno.json'.
-[2025-10-04 17:39:24] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-04 17:39:24] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\78279a665845905c6b9e04810645ffd8128da3fe' , Expire: 1759588857)
-[2025-10-04 17:39:24] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-04 17:39:24] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 17:39:24] [hotjalapeno/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-04 17:39:24] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/hotjalapeno.json'.
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:39:25] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:39:25] [hotjalapeno/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/hotjalapeno'.
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\825b691b46d1bc6c3ac6cdf7d9fcd5f7aed06e20' , Expire: 1759588858)
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/b7d8c3067bb9faf41c4614f325a7bb2ba7ddfe1bb098e9c5c3617a13cbbd42ad"}}
-[2025-10-04 17:39:25] [hotjalapeno/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/hotjalapeno.json'.
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/hotjalapeno.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-04 17:39:25] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:39:25] [hotjalapeno/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-04 17:39:25] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=hotjalapeno'.
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:39:26] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:39:26] [hotjalapeno/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/55d8ac3d94494e18b5e38772a5c742a8'.
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 152 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136' , Expire: 0)
-[2025-10-04 17:39:26] [hotjalapeno/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136'.
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"cape":null,"ears":null}}
-[2025-10-04 17:39:26] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-04 17:39:26] [hotjalapeno/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-04 17:39:26] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/hotjalapeno.png'.
-[2025-10-04 17:39:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:39:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:39:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-04 17:39:27] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2025-10-04 17:39:27] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"55d8ac3d-9449-4e18-b5e3-8772a5c742a8"}
-[2025-10-04 17:39:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2025-10-04 17:39:28] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-04 17:39:28] [hotjalapeno/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-04 17:39:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/hotjalapeno.png'.
-[2025-10-04 17:39:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:39:28] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:39:28] [hotjalapeno/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-04 17:39:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=hotjalapeno&uuid=55d8ac3d-9449-4e18-b5e3-8772a5c742a8&nothirdparty'.
-[2025-10-04 17:39:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-04 17:39:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-04 17:39:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-04 17:39:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png , Model: default , CapeUrl: null  , Expiry: 1759588799)
+[2025-10-05 21:48:28] [hotjalapeno/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
+[2025-10-05 21:48:28] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/hotjalapeno.json'.
+[2025-10-05 21:48:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-05 21:48:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\78279a665845905c6b9e04810645ffd8128da3fe' , Expire: 1759690203)
+[2025-10-05 21:48:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2025-10-05 21:48:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2025-10-05 21:48:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
+[2025-10-05 21:48:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/hotjalapeno.json'.
+[2025-10-05 21:48:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-05 21:48:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-05 21:48:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
+[2025-10-05 21:48:29] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/hotjalapeno'.
+[2025-10-05 21:48:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
+[2025-10-05 21:48:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\825b691b46d1bc6c3ac6cdf7d9fcd5f7aed06e20' , Expire: 1759690200)
+[2025-10-05 21:48:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/b7d8c3067bb9faf41c4614f325a7bb2ba7ddfe1bb098e9c5c3617a13cbbd42ad"}}
+[2025-10-05 21:48:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
+[2025-10-05 21:48:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/hotjalapeno.json'.
+[2025-10-05 21:48:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/hotjalapeno.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2025-10-05 21:48:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-05 21:48:30] [hotjalapeno/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
+[2025-10-05 21:48:30] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=hotjalapeno'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/55d8ac3d94494e18b5e38772a5c742a8'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 152 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136' , Expire: 0)
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\126c77b80fab098c3858ced12cdc39259ce27136'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"cape":null,"ears":null}}
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/hotjalapeno.png'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2025-10-05 21:48:31] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
+[2025-10-05 21:48:31] [hotjalapeno/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"55d8ac3d-9449-4e18-b5e3-8772a5c742a8"}
+[2025-10-05 21:48:32] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
+[2025-10-05 21:48:32] [hotjalapeno/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-05 21:48:32] [hotjalapeno/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2025-10-05 21:48:32] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/hotjalapeno.png'.
+[2025-10-05 21:48:33] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-05 21:48:33] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-05 21:48:33] [hotjalapeno/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2025-10-05 21:48:33] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=hotjalapeno&uuid=55d8ac3d-9449-4e18-b5e3-8772a5c742a8&nothirdparty'.
+[2025-10-05 21:48:33] [hotjalapeno/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-05 21:48:33] [hotjalapeno/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-05 21:48:33] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
+[2025-10-05 21:48:33] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_hotjalapeno.png , Model: default , CapeUrl: null  , Expiry: 1759690143)
