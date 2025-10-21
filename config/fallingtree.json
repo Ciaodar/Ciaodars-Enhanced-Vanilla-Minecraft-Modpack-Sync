@@ -18,7 +18,7 @@
     "includePersistentLeavesInRequiredCount": true,
     "treeBreaking": true,
     "leavesBreaking": true,
-    "leavesBreakingForceRadius": 3,
+    "leavesBreakingForceRadius": 2,
     "allowMixedLogs": false,
     "breakNetherTreeWarts": true,
     "breakMangroveRoots": true,
