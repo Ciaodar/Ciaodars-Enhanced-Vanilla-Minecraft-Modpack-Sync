@@ -3,11 +3,6 @@
   "buildNumber": 34,
   "loadlist": [
     {
-      "name": "TLauncher",
-      "type": "ElyByAPI",
-      "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
-    },
-    {
       "name": "LocalSkin",
       "type": "Legacy",
       "checkPNG": false,
@@ -15,6 +10,11 @@
       "model": "auto",
       "cape": "LocalSkin/capes/{USERNAME}.png",
       "elytra": "LocalSkin/elytras/{USERNAME}.png"
+    },
+    {
+      "name": "TLauncher",
+      "type": "ElyByAPI",
+      "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
     },
     {
       "name": "GameProfile",
