@@ -14,15 +14,15 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
 gamma:0.85
-graphicsMode:1
+graphicsMode:0
 guiScale:4
-maxFps:70
+maxFps:60
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"fast"
 cloudRange:128
 renderDistance:12
 simulationDistance:7
@@ -52,7 +52,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.10.1.zip","file/Faithful 32x - 1.21.7.zip","file/villagers-refreshed-v2.zip","file/Faithful32x-FreshAnimations-v1.10.a.zip","file/villagers-refrehsed+FA-v1.0.zip","file/Fancy Crops v1.2.zip","file/Better Lanterns v1.2 - 1.21.7.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/§6Immersive§8_§6Interfaces§8.zip"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.10.1.zip","file/Faithful 32x - 1.21.7.zip","file/villagers-refreshed-v2.zip","file/Faithful32x-FreshAnimations-v1.10.a.zip","file/villagers-refrehsed+FA-v1.0.zip","file/Fancy Crops v1.2.zip","file/Better Lanterns v1.2 - 1.21.7.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/§6Immersive§8_§6Interfaces§8.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["file/villagers-refrehsed+FA-v1.0.zip"]
 lastServer:
 lang:tr_tr
