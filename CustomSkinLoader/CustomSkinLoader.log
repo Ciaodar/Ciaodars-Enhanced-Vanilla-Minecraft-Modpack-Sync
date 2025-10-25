@@ -179,3 +179,7 @@
 [2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
 [2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: BAZURHAN's profile loaded.
 [2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)9c45a8c35d55b1d611ee5f9d7b99032960f9f5ca,LocalSkin/skins/BAZURHAN.png , Model: auto , CapeUrl: null , ElytraUrl: (LOCAL_LEGACY)66a5d545242c44b31a93793e0ade01aa622e6b72,LocalSkin/elytras/BAZURHAN.png , Expiry: 1761419650)
+[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
+[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
+[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
+[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)57c587950ab97150f6a57718e99147af3f498120,LocalSkin/skins/hotjalapeno.png , Model: auto , CapeUrl: (LOCAL_LEGACY)6d0daca127fab36ad76ca8a2cc75a27e63cb476e,LocalSkin/capes/hotjalapeno.png , ElytraUrl: (LOCAL_LEGACY)5f46a59c0bc8cf40e76a893f5a535af546fc9d8f,LocalSkin/elytras/hotjalapeno.png , Expiry: 1761420034)
