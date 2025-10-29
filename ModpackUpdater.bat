@@ -10,4 +10,4 @@ git pull origin master
 git push origin master
 
 REM === TLauncher’ı çalıştır ===
-start "" "C:\Users\Ciaodar\AppData\Roaming\.minecraft\TLauncher.exe"
+start "" "%appdata%\.minecraft\TLauncher.exe"
