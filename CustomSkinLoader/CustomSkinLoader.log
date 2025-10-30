@@ -1,253 +1,50 @@
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.25
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.8
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\CustomSkinLoader.json
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.25
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 34
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2025-10-25 22:07:47] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2025-10-25 22:07:47] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
-[2025-10-25 22:07:47] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:07:47] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
-[2025-10-25 22:07:47] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)ce0de475b576c8f8736b17de1725b75172353af3,LocalSkin/skins/Ciaodar.png , Model: auto , CapeUrl: (LOCAL_LEGACY)16467acd87fd0f19085ee3a28bcc67dbd00fab6a,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1761419297)
-[2025-10-25 22:08:01] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-25 22:08:01] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:08:01] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-25 22:08:01] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)57c587950ab97150f6a57718e99147af3f498120,LocalSkin/skins/hotjalapeno.png , Model: auto , CapeUrl: (LOCAL_LEGACY)6d0daca127fab36ad76ca8a2cc75a27e63cb476e,LocalSkin/capes/hotjalapeno.png , ElytraUrl: (LOCAL_LEGACY)5f46a59c0bc8cf40e76a893f5a535af546fc9d8f,LocalSkin/elytras/hotjalapeno.png , Expiry: 1761419311)
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: Loading BAZURHAN's profile.
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'TLauncher'.
-[2025-10-25 22:08:57] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/BAZURHAN'.
-[2025-10-25 22:08:57] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-25 22:08:57] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8810becabf555d4e455050bef3e4073bd1598c71' , Expire: 1761419428)
-[2025-10-25 22:08:57] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-25 22:08:57] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:08:57] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:08:58] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.(BAZURHAN's profile not found.)
-[2025-10-25 22:08:58] [BAZURHAN/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/BAZURHAN.json'.
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\4d392e2a5bf269485bf45121639303c85b9a6c20' , Expire: 1761419433)
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-25 22:08:58] [BAZURHAN/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-25 22:08:58] [BAZURHAN/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/BAZURHAN.json'.
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:08:58] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:08:58] [BAZURHAN/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-25 22:08:58] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/BAZURHAN'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8fa5256ea4bb11c10bf59d1c27fa3d341437d657' , Expire: 1761422941)
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: 
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/BAZURHAN.json'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/BAZURHAN.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=BAZURHAN'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile url not found.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/BAZURHAN.png'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-25 22:09:00] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:09:00] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:09:01] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:09:01] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:09:01] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:09:01] [BAZURHAN/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-25 22:09:01] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/BAZURHAN.png'.
-[2025-10-25 22:09:01] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:09:01] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:09:01] [BAZURHAN/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-25 22:09:01] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:09:01] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:09:02] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:09:02] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:09:02] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:09:02] [BAZURHAN/INFO] [CustomSkinLoader Core]: BAZURHAN's profile loaded.
-[2025-10-25 22:09:02] [BAZURHAN/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)9c45a8c35d55b1d611ee5f9d7b99032960f9f5ca,LocalSkin/skins/BAZURHAN.png , Model: auto , CapeUrl: null , ElytraUrl: (LOCAL_LEGACY)66a5d545242c44b31a93793e0ade01aa622e6b72,LocalSkin/elytras/BAZURHAN.png , Expiry: 1761419372)
-[2025-10-25 22:12:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-25 22:12:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:12:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-25 22:12:29] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)57c587950ab97150f6a57718e99147af3f498120,LocalSkin/skins/hotjalapeno.png , Model: auto , CapeUrl: (LOCAL_LEGACY)6d0daca127fab36ad76ca8a2cc75a27e63cb476e,LocalSkin/capes/hotjalapeno.png , ElytraUrl: (LOCAL_LEGACY)5f46a59c0bc8cf40e76a893f5a535af546fc9d8f,LocalSkin/elytras/hotjalapeno.png , Expiry: 1761419579)
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: Loading BAZURHAN's profile.
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'TLauncher'.
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/BAZURHAN'.
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8810becabf555d4e455050bef3e4073bd1598c71' , Expire: 1761419707)
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.(BAZURHAN's profile not found.)
-[2025-10-25 22:13:37] [BAZURHAN/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-25 22:13:37] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/BAZURHAN.json'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\4d392e2a5bf269485bf45121639303c85b9a6c20' , Expire: 1761419710)
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/BAZURHAN.json'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/BAZURHAN'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8fa5256ea4bb11c10bf59d1c27fa3d341437d657' , Expire: 1761422941)
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8fa5256ea4bb11c10bf59d1c27fa3d341437d657'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: 
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/BAZURHAN.json'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/BAZURHAN.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=BAZURHAN'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-25 22:13:38] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:13:38] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile url not found.
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/BAZURHAN.png'.
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:13:39] [BAZURHAN/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-25 22:13:39] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/BAZURHAN.png'.
-[2025-10-25 22:13:40] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-25 22:13:40] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:13:40] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:13:40] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: BAZURHAN's profile loaded.
-[2025-10-25 22:13:40] [BAZURHAN/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)9c45a8c35d55b1d611ee5f9d7b99032960f9f5ca,LocalSkin/skins/BAZURHAN.png , Model: auto , CapeUrl: null , ElytraUrl: (LOCAL_LEGACY)66a5d545242c44b31a93793e0ade01aa622e6b72,LocalSkin/elytras/BAZURHAN.png , Expiry: 1761419650)
-[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
-[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
-[2025-10-25 22:20:04] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)57c587950ab97150f6a57718e99147af3f498120,LocalSkin/skins/hotjalapeno.png , Model: auto , CapeUrl: (LOCAL_LEGACY)6d0daca127fab36ad76ca8a2cc75a27e63cb476e,LocalSkin/capes/hotjalapeno.png , ElytraUrl: (LOCAL_LEGACY)5f46a59c0bc8cf40e76a893f5a535af546fc9d8f,LocalSkin/elytras/hotjalapeno.png , Expiry: 1761420034)
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: Loading BAZURHAN's profile.
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'TLauncher'.
-[2025-10-25 22:28:32] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/BAZURHAN'.
-[2025-10-25 22:28:32] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-25 22:28:32] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8810becabf555d4e455050bef3e4073bd1598c71' , Expire: 1761420603)
-[2025-10-25 22:28:32] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'GameProfile'.
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'Mojang'.
-[2025-10-25 22:28:32] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:28:32] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:28:33] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.(BAZURHAN's profile not found.)
-[2025-10-25 22:28:33] [BAZURHAN/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'LittleSkin'.
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/BAZURHAN.json'.
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\4d392e2a5bf269485bf45121639303c85b9a6c20' , Expire: 1761420607)
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2025-10-25 22:28:33] [BAZURHAN/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2025-10-25 22:28:33] [BAZURHAN/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'BlessingSkin'.
-[2025-10-25 22:28:33] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/BAZURHAN.json'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'ElyBy'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/BAZURHAN'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8fa5256ea4bb11c10bf59d1c27fa3d341437d657' , Expire: 1761422941)
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\caches\8fa5256ea4bb11c10bf59d1c27fa3d341437d657'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: 
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'SkinMe'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/BAZURHAN.json'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/BAZURHAN.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'GlitchlessGames'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=BAZURHAN'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2025-10-25 22:28:34] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:28:34] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:28:35] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:28:35] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:28:35] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile url not found.
-[2025-10-25 22:28:35] [BAZURHAN/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2025-10-25 22:28:35] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/BAZURHAN.png'.
-[2025-10-25 22:28:35] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:28:35] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:28:35] [BAZURHAN/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2025-10-25 22:28:35] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:28:35] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: Profile not found.
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/BAZURHAN.png'.
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: Payload: ["BAZURHAN"]
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
-[2025-10-25 22:28:36] [BAZURHAN/DEBUG] [CustomSkinLoader Core]: Content: [ ]
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: BAZURHAN's profile loaded.
-[2025-10-25 22:28:36] [BAZURHAN/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)9c45a8c35d55b1d611ee5f9d7b99032960f9f5ca,LocalSkin/skins/BAZURHAN.png , Model: auto , CapeUrl: null , ElytraUrl: (LOCAL_LEGACY)66a5d545242c44b31a93793e0ade01aa622e6b72,LocalSkin/elytras/BAZURHAN.png , Expiry: 1761420546)
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.25
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.8
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Ciaodar\AppData\Roaming\.minecraft\versions\Fab1\CustomSkinLoader\CustomSkinLoader.json
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.25
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 34
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2025-10-29 22:10:06] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2025-10-29 22:10:06] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
+[2025-10-29 22:10:06] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
+[2025-10-29 22:10:06] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
+[2025-10-29 22:10:06] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)ce0de475b576c8f8736b17de1725b75172353af3,LocalSkin/skins/Ciaodar.png , Model: auto , CapeUrl: (LOCAL_LEGACY)16467acd87fd0f19085ee3a28bcc67dbd00fab6a,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1761765036)
+[2025-10-29 22:11:54] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
+[2025-10-29 22:11:54] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
+[2025-10-29 22:11:54] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
+[2025-10-29 22:11:54] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)57c587950ab97150f6a57718e99147af3f498120,LocalSkin/skins/hotjalapeno.png , Model: auto , CapeUrl: (LOCAL_LEGACY)6d0daca127fab36ad76ca8a2cc75a27e63cb476e,LocalSkin/capes/hotjalapeno.png , ElytraUrl: (LOCAL_LEGACY)5f46a59c0bc8cf40e76a893f5a535af546fc9d8f,LocalSkin/elytras/hotjalapeno.png , Expiry: 1761765144)
+[2025-10-29 23:05:39] [Ciaodar/INFO] [CustomSkinLoader Core]: Loading Ciaodar's profile.
+[2025-10-29 23:05:39] [Ciaodar/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
+[2025-10-29 23:05:39] [Ciaodar/INFO] [CustomSkinLoader Core]: Ciaodar's profile loaded.
+[2025-10-29 23:05:39] [Ciaodar/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)ce0de475b576c8f8736b17de1725b75172353af3,LocalSkin/skins/Ciaodar.png , Model: auto , CapeUrl: (LOCAL_LEGACY)16467acd87fd0f19085ee3a28bcc67dbd00fab6a,LocalSkin/capes/Ciaodar.png , ElytraUrl: (LOCAL_LEGACY)22c00475c48b4cd91fbd99f51cd7b571f6a9b7df,LocalSkin/elytras/Ciaodar.png , Expiry: 1761768369)
+[2025-10-29 23:06:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: Loading hotjalapeno's profile.
+[2025-10-29 23:06:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
+[2025-10-29 23:06:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: hotjalapeno's profile loaded.
+[2025-10-29 23:06:43] [hotjalapeno/INFO] [CustomSkinLoader Core]: (SkinUrl: (LOCAL_LEGACY)57c587950ab97150f6a57718e99147af3f498120,LocalSkin/skins/hotjalapeno.png , Model: auto , CapeUrl: (LOCAL_LEGACY)6d0daca127fab36ad76ca8a2cc75a27e63cb476e,LocalSkin/capes/hotjalapeno.png , ElytraUrl: (LOCAL_LEGACY)5f46a59c0bc8cf40e76a893f5a535af546fc9d8f,LocalSkin/elytras/hotjalapeno.png , Expiry: 1761768433)
